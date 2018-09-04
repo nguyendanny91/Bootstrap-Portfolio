@@ -144,6 +144,30 @@ html {
     margin-bottom: 2%;
 }
 
+
+
+.imgcontainer {
+    position: relative;
+}
+
+.portfolioimg {
+    width: 100%;
+    height: auto;
+}
+
+.imgblock {
+    position: absolute;
+    top: 70%;
+    background-color: #41a09b;
+    color: white;
+    width: 100%;
+    line-height: 40px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    text-align: center;
+}
+
+
+
 @media only screen and (max-width: 991px) {
     .randomimage {
     margin-bottom: 2%;
